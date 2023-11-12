@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    text-align: right;
+}
+p{
+    color: red;
+    text-transform: capitalize;
+    text-indent: 20px;
+font-family: Verdana;
+font-size: 50px;
+color: green;
+}
+span .title{
+    color: red;
+}
+.title{  
+    color: green;  
+text-shadow:2px 2px 5px green; 
+}
